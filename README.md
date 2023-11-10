@@ -1,5 +1,6 @@
 # SDP-Final
 Final project
+
 Singleton Pattern (RestaurantManager):
 The Singleton pattern ensures that only one instance of the RestaurantManager class can exist. In your code, RestaurantManager.getInstance() is used to obtain the sole instance of the RestaurantManager. This pattern is handy when you want to centralize control, such as managing a unique resource.
 
@@ -20,10 +21,6 @@ The Decorator pattern attaches additional responsibilities to an object dynamica
 
 These patterns help in making your code more modular, extensible, and maintainable by promoting good design principles.
 
-
-
-
-Is this conversation helpful so far?
 
 
 
