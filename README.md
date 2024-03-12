@@ -1,6 +1,5 @@
 # SDP-Final
 Final project
-## Damir Ospanbek
 
 Singleton Pattern (RestaurantManager):
 The Singleton pattern ensures that only one instance of the RestaurantManager class can exist. In your code, RestaurantManager.getInstance() is used to obtain the sole instance of the RestaurantManager. This pattern is handy when you want to centralize control, such as managing a unique resource.
